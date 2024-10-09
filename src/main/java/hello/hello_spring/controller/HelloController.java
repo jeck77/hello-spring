@@ -5,10 +5,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
-// 단축키
-// command + p => 매개변수 보기
-// command + n => getter setter 생성
-// command + shift + enter => 만들던 코드 자동 생성
 @Controller
 public class HelloController {
 

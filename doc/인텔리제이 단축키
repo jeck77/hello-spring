@@ -1,0 +1,10 @@
+단축키
+option + 드래그 => 세로 편집
+option + shift + 위아래 => 한줄 이동
+command + backspace => 한줄 지우기
+command + d => 한줄 복사
+command + p => 매개변수 보기
+command + n => getter setter 생성
+command + shift + enter => 만들던 코드 자동 생성
+command + option + m => 따로 클래스 생성
+command + shift + t => 테스트 클래스 생성
