@@ -1,6 +1,7 @@
 단축키
 option + 드래그 => 세로 편집
 option + shift + 위아래 => 한줄 이동
+option + enter => 임포트 확인
 command + backspace => 한줄 지우기
 command + d => 한줄 복사
 command + p => 매개변수 보기
