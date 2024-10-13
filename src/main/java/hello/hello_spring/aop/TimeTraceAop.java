@@ -13,7 +13,7 @@ public class TimeTraceAop {
     @Around("execution(* hello.hello_spring..*(..))")
     public Object execute(ProceedingJoinPoint joinPoint) throws Throwable {
         long start = System.currentTimeMillis();
-        System.out.println("git 테스트");
+
         try {
             // 다음 메소드로 진행
             return joinPoint.proceed();
